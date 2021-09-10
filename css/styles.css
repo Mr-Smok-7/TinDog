@@ -1,0 +1,196 @@
+* {
+  margin: 0px
+}
+
+body {
+  background-color: #BFD8B8;
+  font-family: "Gowun Dodum", sans-serif;
+  line-height: 1.3125;
+  color: #152D35;
+  align-items: center;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #003638;
+  border-width: 10px;
+  width: 7%;
+}
+
+h1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: #261c2c;
+}
+
+h1:hover {
+  color: #e7e0c9;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  margin-bottom: 0px;
+}
+
+h3 {
+  font-family: "Roboto Slab", serif;
+}
+
+.img-tindog {
+  height: 80px;
+}
+
+#title {
+  background-image: url("images/sandra.jpg");
+  width: auto;
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+.container-fluid {
+  padding: 3% 15% 7%;
+}
+
+/* Nav Bar */
+.navbar-collapse {
+  justify-content: flex-end;
+}
+
+.navbar {
+  padding: 0 0 2.5rem 0;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-family: "Montserrat-light", sans-serif;
+  font-size: 1.2rem;
+}
+
+/* Download Botton */
+.download-botton {
+  margin: 2% 7% 5% 0;
+}
+
+/* Title Image */
+.title-p {
+  margin-top: 10%;
+  color: #261c2c;
+  font-size: 1.2rem;
+  font-family: "ProximaNova", sans-serif;
+  font-stretch: semi-expanded;
+}
+
+.title-image {
+  width: 100%;
+  position: static;
+  left: 100%;
+  text-align: left;
+}
+
+/* Features */
+.features {
+  background-color: #ff6b6b;
+  text-align: center;
+  padding: 3.75rem 6.25rem;
+}
+
+.row {
+  margin: 0px;
+}
+
+p {
+  font-family: "Raleway", sans-serif;
+}
+
+.fas {
+  color: #e7e0c9;
+  margin-bottom: 1.25rem;
+}
+
+.fas:hover {
+  color: #3e2c41;
+}
+
+/* testimonials section*/
+#testimonials {
+  text-align: center;
+  background-color: #c1cfc0;
+  padding-bottom: 6%;
+}
+
+.carousel-item {
+  padding: 3% 6.25rem;
+}
+
+.testimonial-1 {
+  margin-top: 2%;
+}
+
+.testimonial-2 {
+  margin-top: 3%;
+}
+
+.img-testimonial {
+  width: 12.5rem;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+em {
+  font-family: "Josefin Sans", sans-serif;
+}
+
+/* Press Section */
+#press {
+  text-align: center;
+  background-color: #c1cfc0;
+  padding-bottom: 4%;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 3px 35px 40px;
+}
+
+/* Pricing */
+#pricing {
+  text-align: center;
+  padding-top: 5%;
+  padding-bottom: 7%;
+}
+
+.row-card {
+  padding-top: 4%
+}
+
+.card {
+  color: #345B63;
+  border-radius: 2%;
+  background-color: #D4ECDD;
+}
+
+/* <!-- Call to Action --> */
+#cta {
+  text-align: center;
+}
+
+#cta h3 {
+  padding-bottom: 2%;
+}
+
+.download-botton-0 {
+  margin: 0% 2%;
+}
+
+#footer p {
+  padding-top: 2%;
+  font-family: 'Slabo 27px', serif;
+  text-align: center;
+}
